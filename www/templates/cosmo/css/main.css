@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    display: block;
+    background-color: #1a1c1d;
+}
+
+.hideme{
+    display: none;
+}
+
+#registerBoxHidden{
+    display: none;
+}
+
+.showHidden{
+    cursor: pointer;
+    color: blue;
+}
+
+#header{
+    height: 70px;
+    text-align: center;
+}
+
+#leftColumn{
+    width: 200px;
+    float: left;
+
+background-color: #2a2a2a;
+}
+
+#leftMenu, #loginBox, #registerBox{
+    padding-bottom: 20px;
+
+}
+
+#centerColumn{
+    width: 1000px;
+    float: left;
+    padding-left: 90px;
+}
+
+#footer{
+    clear: both;
+}
+
+.menuCaption{
+    padding: 3px;
+    font-weight: bold;
+}
+
+.cartBox{
+    padding: 5px 0px 5px 0px;
+}

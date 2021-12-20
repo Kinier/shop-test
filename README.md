@@ -1,3 +1,3 @@
 # shop-test
-## small mvc clear php + smarty test shop ( kinda framework )
+## small mvc clear php + smarty + jquery test shop ( kinda framework )
 **this is not the final version**
